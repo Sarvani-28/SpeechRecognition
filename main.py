@@ -2,7 +2,6 @@ import speech_recognition as sr
 import webbrowser
 import pyttsx3
 
-
 # Initialize the speech engine
 engine = pyttsx3.init()
 
